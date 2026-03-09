@@ -1,18 +1,111 @@
-<h1 align="center">Hi 👋, I'm Abhirup Pal</h1>
-<h3 align="center">A passionate iOS Developer from India</h3>
+# 🏋️ AuraFit – AI Powered Fitness Companion
 
-- 🔭 I’m currently working on **AuraFit**
+![Swift](https://img.shields.io/badge/Swift-5-orange?style=for-the-badge\&logo=swift)
+![Platform](https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge\&logo=apple)
+![UI](https://img.shields.io/badge/UI-SwiftUI-green?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-MVVM-purple?style=for-the-badge)
+![Database](https://img.shields.io/badge/Data-CoreData-lightgrey?style=for-the-badge)
 
-- 🌱 I’m currently learning **Swift UI Frameworks and Networking**
+AuraFit is an **AI-powered fitness tracking application** built with **SwiftUI** that helps users monitor workouts, track progress, calculate calories, and receive intelligent fitness guidance.
 
-- 📫 How to reach me **abhirup99326@gmail.com**
+The goal of AuraFit is to deliver a **personalized and data-driven fitness experience** through workout analytics and AI-assisted coaching.
 
-- 📄 Know about my experiences [I work on my Own Projects(Student)](I work on my Own Projects(Student))
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhirup-pal-04543b260?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjq11inhzq3c2t6qnfkuxda%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhirup-pal-04543b260?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjq11inhzq3c2t6qnfkuxda%3d%3d" height="30" width="40" /></a>
-</p>
+# ✨ Key Features
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+### 🏋️ Workout Tracking
+
+* Log workout exercises and sets
+* Maintain a structured workout history
+* Track workout consistency over time
+
+### 📊 Progress Analytics
+
+* Visual workout trends using **Swift Charts**
+* Monitor strength and training frequency
+* Monthly and yearly progress insights
+
+### 🔥 Calorie Calculator
+
+* Calculate daily calorie requirements
+* Estimate calories burned during workouts
+* Helps users manage weight goals
+
+### 🤖 AI Fitness Coach
+
+* Smart workout suggestions
+* AI-driven improvement guidance
+* Personalized feedback based on workout data
+
+### 📚 Workout History
+
+* View previous workout sessions
+* Organized history for easy tracking
+
+---
+
+# 🧠 App Architecture
+
+AuraFit follows a **MVVM architecture** to maintain a clean and scalable code structure.
+
+View (SwiftUI)
+↓
+ViewModel (Business Logic)
+↓
+CoreData (Persistence Layer)
+
+Benefits:
+
+* Clear separation of concerns
+* Easier testing and maintenance
+* Scalable codebase for future features
+
+---
+
+# 🛠 Tech Stack
+
+### 📱 iOS Development
+
+* Swift
+* SwiftUI
+
+### 📊 Data Visualization
+
+* Swift Charts
+
+### 💾 Data Persistence
+
+* CoreData
+
+### 🤖 AI Features
+
+* Rule-based fitness coaching logic
+* Personalized workout recommendations
+
+---
+
+# 🚀 Future Improvements
+
+Planned upgrades for AuraFit:
+
+* Apple HealthKit integration
+* AI workout plan generator
+* Cloud sync using Firebase
+* Social fitness features
+* Voice-based workout assistant
+
+---
+
+# 👨‍💻 Developer
+
+**Abhirup Pal**
+
+iOS Developer passionate about building **AI-powered mobile applications** using modern Apple frameworks.
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a **star ⭐** on GitHub.
+It helps the project grow and motivates further improvements!
